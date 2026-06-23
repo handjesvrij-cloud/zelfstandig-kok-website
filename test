@@ -1,1 +1,21 @@
-index.html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Zelfstandig Kok</title>
+</head>
+<body>
+  <h1>Welkom bij mijn website</h1>
+  <p>Zelfstandig kok voor private dining en catering.</p>
+
+  <h2>Over mij</h2>
+  <p>Ik ben een professionele kok met passie voor luxe en verse gerechten.</p>
+
+  <h2>Diensten</h2>
+  <ul>
+    <li>Private dining</li>
+    <li>Catering</li>
+    <li>Evenementen</li>
+  </ul>
+</body>
+</html>
